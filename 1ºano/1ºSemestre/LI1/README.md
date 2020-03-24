@@ -6,7 +6,7 @@ Projeto realizado em duplas na linguagem **Haskell**.
 
 O projeto realizado tem por base o jogo mundialmente conhecido, lançado em 1984, [EXCITEBIKE](https://pt.wikipedia.org/wiki/Excitebike).
 
-:point_down: Vídeo do jogo original 1984 colorized :point_down:
+:point_down: *Vídeo do jogo original 1984 colorized* :point_down:
 
 <a href="https://www.youtube.com/watch?v=fRgMCtaWoSU"
 target="_blank"><img src="https://i.ytimg.com/vi/fRgMCtaWoSU/hqdefault.jpg" 
