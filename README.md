@@ -1,6 +1,6 @@
 # UNI
 
-Repositório que contém as coisas da Universidade relacionadas com Programação.
+Repositório de pastas relacionadas com Programação, na Universidade.
 
 ## 1º ANO 
 
