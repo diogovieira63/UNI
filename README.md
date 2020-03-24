@@ -1,7 +1,15 @@
-# Welcome to GitHub Desktop!
+# UNI
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Repositório que contém as coisas da Universidade relacionadas com Programação.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 1º ANO 
 
-My name is Diogo
+### 1º SEMESTRE
+
+1.Programação Funcional 
+2.Laboratórios de Informática I
+
+### 2º SEMESTRE
+
+1. Programação Imperativa
+2.Laboratórios de Informática II
